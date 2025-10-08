@@ -1,16 +1,19 @@
 site_name: Horrifice Documentation
 theme:
-    name: material
-    palette:
-        scheme: slate
-        primary: indigo
-        accent: pink
-    font:
-        text: Roboto
-        code: Roboto Mono
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: pink
+  font:
+    text: Roboto
+    code: Roboto Mono
 nav:
-    - Home: index.md
-    - About: about.md
+  - Home: index.md
+  - About: about.md
+  - Story: story.md
+  - Characters: characters.md
+  - Skills: skills.md
+  - Enemies: enemies.md
 plugins:
-    - search
-    - literate-nav
+  - search
