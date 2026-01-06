@@ -6,3 +6,16 @@ site/
 .godot/
 /android/
 .vscode
+
+# Godot
+.godot/
+.import/
+
+# Editor / temp
+*.uid
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
